@@ -1,0 +1,16 @@
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\bin\Debug\PetShopManagemnetSystem.exe.config
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\bin\Debug\PetShopManagemnetSystem.exe
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\bin\Debug\PetShopManagemnetSystem.pdb
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\bin\Debug\Guna.UI.dll
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\bin\Debug\Guna.UI2.dll
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.LoginForm.resources
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.Properties.Resources.resources
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.csproj.GenerateResource.Cache
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.exe
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.pdb
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.SplashForm.resources
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.CategoryForm.resources
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.ProductForm.resources
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.csprojResolveAssemblyReference.cache
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.SellerForm.resources
+D:\SEMESTER 3\PEMOGRAMAN LANJUT\PetShopManagemnetSystem\PetShopManagemnetSystem\obj\Debug\PetShopManagemnetSystem.SellingForm.resources
